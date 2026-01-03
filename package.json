@@ -1,0 +1,15 @@
+{
+  "name": "dolap-sozlesme-degisiklik-takipcisi",
+  "version": "1.0.0",
+  "description": "Dolap kullanici sozlesmesi degisiklik takip sistemi",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-sozlesme.js",
+    "analyze": "node scripts/analyze-diff.js",
+    "check": "node scripts/check-update.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "node-html-markdown": "^1.3.0"
+  }
+}
