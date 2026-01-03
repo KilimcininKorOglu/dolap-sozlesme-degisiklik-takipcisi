@@ -40,4 +40,5 @@ jobs:
       - name: Check for updates
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_CHECK: ${{ github.event.inputs.force }}
         run: npm run check

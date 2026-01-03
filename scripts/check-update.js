@@ -55,9 +55,15 @@ async function main() {
     oldMarkdown = readFileSync(SOZLESME_PATH, 'utf-8');
   }
   
-  if (oldMarkdown === newMarkdown) {
+  const forceCheck = process.env.FORCE_CHECK === 'true';
+  
+  if (oldMarkdown === newMarkdown && !forceCheck) {
     console.log('Değişiklik yok.');
     return;
+  }
+  
+  if (oldMarkdown === newMarkdown && forceCheck) {
+    console.log('Değişiklik yok ama force check aktif, devam ediliyor...');
   }
   
   console.log('Değişiklik tespit edildi!');
