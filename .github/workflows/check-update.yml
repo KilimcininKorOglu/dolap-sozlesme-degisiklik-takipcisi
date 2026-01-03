@@ -2,8 +2,13 @@ name: Sozlesme Degisiklik Kontrolu
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Her gun saat 09:00 UTC (12:00 TR)
-  workflow_dispatch:  # Manuel tetikleme
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force check'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
