@@ -13,7 +13,13 @@ const SOZLESME_URL = 'https://dolap-agreement.s3.eu-central-1.amazonaws.com/curr
 const nhm = new NodeHtmlMarkdown();
 
 function exec(cmd) {
-  return execSync(cmd, { cwd: ROOT_DIR, encoding: 'utf-8' }).trim();
+  try {
+    return execSync(cmd, { cwd: ROOT_DIR, encoding: 'utf-8' }).trim();
+  } catch (err) {
+    console.error(`Komut hatası: ${cmd}`);
+    console.error(err.message);
+    throw err;
+  }
 }
 
 async function main() {
