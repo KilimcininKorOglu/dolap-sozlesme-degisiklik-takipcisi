@@ -4,11 +4,24 @@ function computeDiff(oldText, newText) {
   const oldLines = oldText.split('\n');
   const newLines = newText.split('\n');
   
-  const oldSet = new Set(oldLines);
-  const newSet = new Set(newLines);
+  const removed = [];
+  const added = [];
   
-  const removed = oldLines.filter(line => !newSet.has(line) && line.trim());
-  const added = newLines.filter(line => !oldSet.has(line) && line.trim());
+  const maxLen = Math.max(oldLines.length, newLines.length);
+  
+  for (let i = 0; i < maxLen; i++) {
+    const oldLine = oldLines[i] || '';
+    const newLine = newLines[i] || '';
+    
+    if (oldLine !== newLine) {
+      if (oldLine.trim()) {
+        removed.push({ line: i + 1, content: oldLine });
+      }
+      if (newLine.trim()) {
+        added.push({ line: i + 1, content: newLine });
+      }
+    }
+  }
   
   return { removed, added };
 }
@@ -18,7 +31,7 @@ function formatDiffForPrompt(diff) {
   
   if (diff.removed.length > 0) {
     result += '## Kaldırılan/Değiştirilen Satırlar:\n';
-    result += diff.removed.slice(0, 200).map(line => `- ${line}`).join('\n');
+    result += diff.removed.slice(0, 200).map(item => `- [Satır ${item.line}] ${item.content}`).join('\n');
     if (diff.removed.length > 200) {
       result += `\n... ve ${diff.removed.length - 200} satır daha`;
     }
@@ -26,7 +39,7 @@ function formatDiffForPrompt(diff) {
   
   if (diff.added.length > 0) {
     result += '\n\n## Eklenen/Değiştirilen Satırlar:\n';
-    result += diff.added.slice(0, 200).map(line => `+ ${line}`).join('\n');
+    result += diff.added.slice(0, 200).map(item => `+ [Satır ${item.line}] ${item.content}`).join('\n');
     if (diff.added.length > 200) {
       result += `\n... ve ${diff.added.length - 200} satır daha`;
     }
