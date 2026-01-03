@@ -17,7 +17,7 @@ function exec(cmd) {
 }
 
 async function main() {
-  console.log('Sozlesme kontrol ediliyor...');
+  console.log('Sözleşme kontrol ediliyor...');
   
   const response = await fetch(SOZLESME_URL);
   if (!response.ok) {
@@ -32,32 +32,32 @@ async function main() {
   }
   
   if (oldMarkdown === newMarkdown) {
-    console.log('Degisiklik yok.');
+    console.log('Değişiklik yok.');
     return;
   }
   
-  console.log('Degisiklik tespit edildi!');
+  console.log('Değişiklik tespit edildi!');
   
   writeFileSync(SOZLESME_PATH, newMarkdown, 'utf-8');
-  console.log('Yeni sozlesme kaydedildi.');
+  console.log('Yeni sözleşme kaydedildi.');
   
   let commitMessage = '';
   const today = new Date().toISOString().split('T')[0];
   
   if (oldMarkdown === '') {
-    commitMessage = `Ilk sozlesme versiyonu - ${today}`;
+    commitMessage = `İlk sözleşme versiyonu - ${today}`;
   } else {
-    console.log('Gemini ile degisiklikler analiz ediliyor...');
+    console.log('Gemini ile değişiklikler analiz ediliyor...');
     try {
       const analysis = await analyzeDiff(oldMarkdown, newMarkdown);
-      commitMessage = `Sozlesme Guncellemesi - ${today}\n\n${analysis}`;
+      commitMessage = `Sözleşme Güncellemesi - ${today}\n\n${analysis}`;
     } catch (err) {
-      console.error('Gemini analiz hatasi:', err.message);
-      commitMessage = `Sozlesme Guncellemesi - ${today}\n\nOtomatik analiz yapilamadi.`;
+      console.error('Gemini analiz hatası:', err.message);
+      commitMessage = `Sözleşme Güncellemesi - ${today}\n\nOtomatik analiz yapılamadı.`;
     }
   }
   
-  console.log('\nCommit mesaji:\n' + commitMessage);
+  console.log('\nCommit mesajı:\n' + commitMessage);
   
   exec('git add sozlesmeler/kullanici-sozlesmesi.md');
   
@@ -69,10 +69,10 @@ async function main() {
     unlinkSync(commitMsgPath);
   } catch (e) {}
   
-  console.log('\nCommit basariyla olusturuldu.');
+  console.log('\nCommit başarıyla oluşturuldu.');
   
   if (process.env.GITHUB_ACTIONS) {
-    console.log('GitHub Actions: Push yapiliyor...');
+    console.log('GitHub Actions: Push yapılıyor...');
     exec('git push');
   }
 }

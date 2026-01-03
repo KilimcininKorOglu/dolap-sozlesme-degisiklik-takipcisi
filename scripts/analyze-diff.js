@@ -4,29 +4,29 @@ export async function analyzeDiff(oldMarkdown, newMarkdown) {
   const apiKey = process.env.GEMINI_API_KEY;
   
   if (!apiKey) {
-    throw new Error('GEMINI_API_KEY environment variable gerekli');
+    throw new Error('GEMINI_API_KEY environment variable gerekli.');
   }
   
   const genAI = new GoogleGenerativeAI(apiKey);
   const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
   
-  const prompt = `Sen bir hukuk dokumani analiz uzmanisin. Asagida bir sozlesmenin eski ve yeni versiyonu var.
+  const prompt = `Sen bir hukuk dokümanı analiz uzmanısın. Aşağıda bir sözleşmenin eski ve yeni versiyonu var.
 
-Degisiklikleri analiz et ve commit mesaji formatinda ozetle. Turkce yaz.
+Değişiklikleri analiz et ve commit mesajı formatında özetle. Türkçe yaz.
 
 Format:
-- Her degisikligi ayri madde olarak listele
-- Kisa ve net ol
-- Sadece onemli degisiklikleri yaz (bosluk, format degisiklikleri haric)
-- Eger komisyon orani, sure, bedel gibi sayisal degerler degistiyse mutlaka belirt
+- Her değişikliği ayrı madde olarak listele.
+- Kısa ve net ol.
+- Sadece önemli değişiklikleri yaz (boşluk, format değişiklikleri hariç).
+- Eğer komisyon oranı, süre, bedel gibi sayısal değerler değiştiyse mutlaka belirt.
 
-ESKI VERSIYON:
+ESKİ VERSİYON:
 ${oldMarkdown.substring(0, 50000)}
 
-YENI VERSIYON:
+YENİ VERSİYON:
 ${newMarkdown.substring(0, 50000)}
 
-DEGISIKLIKLER:`;
+DEĞİŞİKLİKLER:`;
 
   const result = await model.generateContent(prompt);
   const response = await result.response;
