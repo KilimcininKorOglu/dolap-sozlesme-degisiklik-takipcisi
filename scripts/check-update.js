@@ -12,6 +12,27 @@ const SOZLESME_URL = 'https://dolap-agreement.s3.eu-central-1.amazonaws.com/curr
 
 const nhm = new NodeHtmlMarkdown();
 
+async function fetchWithRetry(url, retries = 3, delay = 1000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const response = await fetch(url);
+      if (response.ok) {
+        return response;
+      }
+      if (response.status >= 500 || response.status === 429) {
+        console.log(`Deneme ${i + 1}/${retries} başarısız (${response.status}), tekrar deneniyor...`);
+        await new Promise(resolve => setTimeout(resolve, delay * (i + 1)));
+        continue;
+      }
+      throw new Error(`HTTP hata: ${response.status}`);
+    } catch (err) {
+      if (i === retries - 1) throw err;
+      console.log(`Deneme ${i + 1}/${retries} başarısız, tekrar deneniyor...`);
+      await new Promise(resolve => setTimeout(resolve, delay * (i + 1)));
+    }
+  }
+}
+
 function exec(cmd) {
   try {
     return execSync(cmd, { cwd: ROOT_DIR, encoding: 'utf-8' }).trim();
@@ -25,10 +46,7 @@ function exec(cmd) {
 async function main() {
   console.log('Sözleşme kontrol ediliyor...');
   
-  const response = await fetch(SOZLESME_URL);
-  if (!response.ok) {
-    throw new Error(`HTTP hata: ${response.status}`);
-  }
+  const response = await fetchWithRetry(SOZLESME_URL);
   const newHtml = await response.text();
   const newMarkdown = nhm.translate(newHtml);
   
