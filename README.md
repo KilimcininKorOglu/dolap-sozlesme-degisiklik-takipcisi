@@ -61,7 +61,7 @@ GEMINI_API_KEY=your_key npm run check
 ## Commit Mesajı Örneği
 
 ```
-Sözleşme Güncellemesi - 2026-01-15
+docs(sözleşme): Sözleşme güncellemesi - 2026-01-15
 
 - Satıcı komisyon oranı %12'den %15'e yükseltildi.
 - Yeni "Süper Satıcı B" kategorisi eklendi.

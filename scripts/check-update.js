@@ -45,15 +45,15 @@ async function main() {
   const today = new Date().toISOString().split('T')[0];
   
   if (oldMarkdown === '') {
-    commitMessage = `İlk sözleşme versiyonu - ${today}`;
+    commitMessage = `docs(sözleşme): İlk sözleşme versiyonu - ${today}`;
   } else {
     console.log('Gemini ile değişiklikler analiz ediliyor...');
     try {
       const analysis = await analyzeDiff(oldMarkdown, newMarkdown);
-      commitMessage = `Sözleşme Güncellemesi - ${today}\n\n${analysis}`;
+      commitMessage = `docs(sözleşme): Sözleşme güncellemesi - ${today}\n\n${analysis}`;
     } catch (err) {
       console.error('Gemini analiz hatası:', err.message);
-      commitMessage = `Sözleşme Güncellemesi - ${today}\n\nOtomatik analiz yapılamadı.`;
+      commitMessage = `docs(sözleşme): Sözleşme güncellemesi - ${today}\n\nOtomatik analiz yapılamadı.`;
     }
   }
   
