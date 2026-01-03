@@ -10,21 +10,42 @@ export async function analyzeDiff(oldMarkdown, newMarkdown) {
   const genAI = new GoogleGenerativeAI(apiKey);
   const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
   
-  const prompt = `Sen bir hukuk dokümanı analiz uzmanısın. Aşağıda bir sözleşmenin eski ve yeni versiyonu var.
+  const prompt = `Sen bir hukuk dokümanı analiz uzmanısın. Aşağıda bir e-ticaret platformu kullanıcı sözleşmesinin eski ve yeni versiyonu var.
 
-Değişiklikleri analiz et ve commit mesajı formatında özetle. Türkçe yaz.
+## Görev
+İki versiyon arasındaki değişiklikleri tespit et ve özetle.
 
-Format:
-- Her değişikliği ayrı madde olarak listele.
-- Kısa ve net ol.
-- Sadece önemli değişiklikleri yaz (boşluk, format değişiklikleri hariç).
-- Eğer komisyon oranı, süre, bedel gibi sayısal değerler değiştiyse mutlaka belirt.
+## Kurallar
+1. Sadece anlamlı değişiklikleri raporla (boşluk, format, yazım düzeltmeleri hariç).
+2. Sayısal değerlerde mutlaka eski ve yeni değeri belirt: "X'ten Y'ye değişti".
+3. Değişikliğin hangi maddede olduğunu belirt (örn: "Madde 7.1").
+4. Türkçe yaz, kısa ve net ol.
+
+## Öncelik Sırası (bu sırayla listele)
+1. **Ücret/Komisyon değişiklikleri** - Satıcı/alıcı komisyon oranları, hizmet bedelleri
+2. **Süre değişiklikleri** - İade, teslimat, onay süreleri
+3. **Hak/Yükümlülük değişiklikleri** - Tarafların sorumlulukları
+4. **Yeni eklenen maddeler**
+5. **Kaldırılan maddeler**
+6. **Diğer değişiklikler**
+
+## Çıktı Formatı
+Her değişiklik için:
+- [Kategori] Madde X.X: Değişiklik açıklaması (eski değer → yeni değer)
+
+Eğer değişiklik yoksa sadece "Önemli bir değişiklik tespit edilmedi." yaz.
+
+---
 
 ESKİ VERSİYON:
 ${oldMarkdown.substring(0, 50000)}
 
+---
+
 YENİ VERSİYON:
 ${newMarkdown.substring(0, 50000)}
+
+---
 
 DEĞİŞİKLİKLER:`;
 
