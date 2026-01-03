@@ -2,6 +2,12 @@
 
 Dolap platformunun kullanıcı sözleşmesindeki değişiklikleri otomatik olarak takip eden sistem.
 
+## Neden?
+
+Dolap.com sözleşme değişikliklerinde görseldeki gibi bir e-posta göndermekte. E-postadaki linke tıklandığında ise sözleşme metnine erişilmekte fakat neyin değiştiği bilgisi gösterilmemekte.
+
+![Dolap.com Sözleşme Değişiklik Duyurusu](sozlesme_degisiklik_duyuru_gorseli.png)
+
 ## Nasıl Çalışır?
 
 1. GitHub Actions her gün saat 12:00 (TR) sözleşmeyi kontrol eder.
