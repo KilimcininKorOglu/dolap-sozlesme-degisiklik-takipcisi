@@ -1,4 +1,4 @@
-# Dolap Sözleşme Değişiklik Takipçisi
+# Dolap.com Sözleşme Değişiklik Takipçisi
 
 Dolap platformunun kullanıcı sözleşmesindeki değişiklikleri otomatik olarak takip eden sistem.
 

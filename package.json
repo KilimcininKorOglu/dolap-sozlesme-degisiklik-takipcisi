@@ -1,7 +1,7 @@
 {
   "name": "dolap-sozlesme-degisiklik-takipcisi",
   "version": "1.0.0",
-  "description": "Dolap kullanici sozlesmesi degisiklik takip sistemi",
+  "description": "Dolap.com kullanıcı sözleşmesi değişiklik takip sistemi",
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-sozlesme.js",
