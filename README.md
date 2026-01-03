@@ -43,7 +43,7 @@ GEMINI_API_KEY=your_key npm run check
 ### GitHub Actions
 
 - Otomatik: Her gün 12:00 TR
-- Manuel: Actions > Sozlesme Degisiklik Kontrolu > Run workflow
+- Manuel: Actions > Sözleşme Değişiklik Kontrolü > Run workflow
 
 ## Dosya Yapısı
 

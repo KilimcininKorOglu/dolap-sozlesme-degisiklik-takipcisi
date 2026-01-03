@@ -1,4 +1,4 @@
-name: Sozlesme Degisiklik Kontrolu
+name: Sözleşme Değişiklik Kontrolü
 
 on:
   schedule:
