@@ -4,7 +4,9 @@ Dolap platformunun kullanıcı sözleşmesindeki değişiklikleri otomatik olara
 
 ## Neden?
 
-Dolap.com sözleşme değişikliklerinde görseldeki gibi bir e-posta göndermekte. E-postadaki linke tıklandığında ise sözleşme metnine erişilmekte fakat neyin değiştiği bilgisi gösterilmemekte.
+Dolap.com sözleşme değişikliklerinde aşağıdaki gibi bir e-posta gönderiyor. Ancak linke tıkladığınızda sadece güncel sözleşmeyi görüyorsunuz - **tam olarak neyin değiştiğini öğrenemiyorsunuz**. Komisyon oranları mı arttı? İade süreleri mi kısaldı? Bilemezsiniz.
+
+Bu proje tam da bu sorunu çözüyor: Her değişikliği Git history'de saklıyor ve Gemini AI ile otomatik olarak özetliyor.
 
 ![Dolap.com Sözleşme Değişiklik Duyurusu](sozlesme_degisiklik_duyuru_gorseli.png)
 
