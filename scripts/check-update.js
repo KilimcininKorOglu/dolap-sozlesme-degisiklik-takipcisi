@@ -31,6 +31,7 @@ async function fetchWithRetry(url, retries = 3, delay = 1000) {
       await new Promise(resolve => setTimeout(resolve, delay * (i + 1)));
     }
   }
+  throw new Error(`${retries} deneme sonrası başarısız: ${url}`);
 }
 
 function exec(cmd) {
