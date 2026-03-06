@@ -1,28 +1,33 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
+import { diffLines } from 'diff';
 
 function computeDiff(oldText, newText) {
-  const oldLines = oldText.split('\n');
-  const newLines = newText.split('\n');
-  
+  const changes = diffLines(oldText, newText);
   const removed = [];
   const added = [];
-  
-  const maxLen = Math.max(oldLines.length, newLines.length);
-  
-  for (let i = 0; i < maxLen; i++) {
-    const oldLine = oldLines[i] || '';
-    const newLine = newLines[i] || '';
-    
-    if (oldLine !== newLine) {
-      if (oldLine.trim()) {
-        removed.push({ line: i + 1, content: oldLine });
+  let oldLineNum = 0;
+  let newLineNum = 0;
+
+  for (const change of changes) {
+    const lines = change.value.split('\n');
+    if (lines[lines.length - 1] === '') lines.pop();
+
+    if (change.removed) {
+      for (const line of lines) {
+        oldLineNum++;
+        if (line.trim()) removed.push({ line: oldLineNum, content: line });
       }
-      if (newLine.trim()) {
-        added.push({ line: i + 1, content: newLine });
+    } else if (change.added) {
+      for (const line of lines) {
+        newLineNum++;
+        if (line.trim()) added.push({ line: newLineNum, content: line });
       }
+    } else {
+      oldLineNum += lines.length;
+      newLineNum += lines.length;
     }
   }
-  
+
   return { removed, added };
 }
 
