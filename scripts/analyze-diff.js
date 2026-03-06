@@ -69,7 +69,10 @@ export async function analyzeDiff(oldMarkdown, newMarkdown) {
   const diffText = formatDiffForPrompt(diff);
   
   const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+  const model = genAI.getGenerativeModel(
+    { model: 'gemini-2.5-flash' },
+    { timeout: 60000 }
+  );
   
   const prompt = `Sen bir hukuk dokümanı analiz uzmanısın. Aşağıda bir e-ticaret platformu (Dolap) kullanıcı sözleşmesinde yapılan değişiklikler var.
 
