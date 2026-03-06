@@ -4,6 +4,7 @@ import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 import { NodeHtmlMarkdown } from 'node-html-markdown';
 import { analyzeDiff } from './analyze-diff.js';
+import { fetchWithRetry } from './utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = join(__dirname, '..');
@@ -11,28 +12,6 @@ const SOZLESME_PATH = join(ROOT_DIR, 'sozlesmeler', 'kullanici-sozlesmesi.md');
 const SOZLESME_URL = 'https://dolap-agreement.s3.eu-central-1.amazonaws.com/current/kullanici-sozlesmesi.html';
 
 const nhm = new NodeHtmlMarkdown();
-
-async function fetchWithRetry(url, retries = 3, delay = 1000) {
-  for (let i = 0; i < retries; i++) {
-    try {
-      const response = await fetch(url);
-      if (response.ok) {
-        return response;
-      }
-      if (response.status >= 500 || response.status === 429) {
-        console.log(`Deneme ${i + 1}/${retries} başarısız (${response.status}), tekrar deneniyor...`);
-        await new Promise(resolve => setTimeout(resolve, delay * (i + 1)));
-        continue;
-      }
-      throw new Error(`HTTP hata: ${response.status}`);
-    } catch (err) {
-      if (i === retries - 1) throw err;
-      console.log(`Deneme ${i + 1}/${retries} başarısız, tekrar deneniyor...`);
-      await new Promise(resolve => setTimeout(resolve, delay * (i + 1)));
-    }
-  }
-  throw new Error(`${retries} deneme sonrası başarısız: ${url}`);
-}
 
 function exec(cmd) {
   try {

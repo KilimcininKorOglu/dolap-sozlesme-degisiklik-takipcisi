@@ -2,6 +2,7 @@ import { writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 import { NodeHtmlMarkdown } from 'node-html-markdown';
+import { fetchWithRetry } from './utils.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const SOZLESME_URL = 'https://dolap-agreement.s3.eu-central-1.amazonaws.com/current/kullanici-sozlesmesi.html';
@@ -12,11 +13,7 @@ const nhm = new NodeHtmlMarkdown();
 async function fetchSozlesme() {
   console.log('Sözleşme indiriliyor...');
   
-  const response = await fetch(SOZLESME_URL);
-  
-  if (!response.ok) {
-    throw new Error(`HTTP hata: ${response.status}`);
-  }
+  const response = await fetchWithRetry(SOZLESME_URL);
   
   const html = await response.text();
   const markdown = nhm.translate(html);
