@@ -56,6 +56,8 @@ async function main() {
   
   if (oldMarkdown === '') {
     commitMessage = `docs(sözleşme): İlk sözleşme versiyonu - ${today}`;
+  } else if (oldMarkdown === newMarkdown && forceCheck) {
+    commitMessage = `docs(sözleşme): Zorunlu kontrol - ${today}\n\nDeğişiklik tespit edilmedi.`;
   } else {
     console.log('Gemini ile değişiklikler analiz ediliyor...');
     try {
