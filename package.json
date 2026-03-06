@@ -5,7 +5,6 @@
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-sozlesme.js",
-    "analyze": "node scripts/analyze-diff.js",
     "check": "node scripts/check-update.js"
   },
   "dependencies": {
