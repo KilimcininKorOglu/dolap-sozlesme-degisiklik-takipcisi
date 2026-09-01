@@ -14,32 +14,32 @@ I. BÖLÜM
 
 Aksi Sözleşme kapsamında belirtilmedikçe, Sözleşme kapsamında aşağıda yer alan tanımlar, karşılarında yer verilen anlamları ifade etmektedir. 
 
-| Alıcı                                                   | :                                                                                                                                                                                                                                                                            | Platform üzerinde Satıcı tarafından satışa sunulan Ürün’ü satın alan ya da satın alma amacıyla hareket eden Üye                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Alıcı Hizmet Bedeli                                     | :                                                                                                                                                                                                                                                                            | Sözleşme’nin 5.20\. maddesinde tanımlanan bedel                                                                                                                                                                                                                                                                                                                            |
-| Aracılık Hizmetleri                                     | :                                                                                                                                                                                                                                                                            | Platform’da elektronik ticaret işlemlerinin gerçekleştirilmesi ve siparişin teslim edilmesi amacıyla DSM tarafından Satıcı veya Alıcı’ya sunulan her türlü Hizmet                                                                                                                                                                                                          |
-| Dahili İletişim Sistemi                                 | :                                                                                                                                                                                                                                                                            | DSM’nin aracılık hizmeti sunduğu Satıcı ile Platform’daki her türlü iletişimini kolay ve ücretsiz sağlamak üzere oluşturduğu ve Platform üzerinden erişilen sistem                                                                                                                                                                                                         |
-| Desi                                                    | Kargo gönderimlerinde hacimsel ağırlık. Gönderi paketinin desisini hesaplamak için en, boy, yükseklik birbiri ile çarpılır ve 3000'e bölünür; fiyatlandırma, hacimsel ağırlık ve paket ağırlığından sayısal olarak hangisi büyük ise; büyük olan ölçüm baz alınarak yapılır. |                                                                                                                                                                                                                                                                                                                                                                            |
-| Dolap Bilgi Güvenliği Gereklilikleri                    | :                                                                                                                                                                                                                                                                            | Ek 4’te yer alan Dolap Üçüncü Taraf Bilgi Güvenliği Gereklilikleri Sözleşmesi                                                                                                                                                                                                                                                                                              |
-| Elektronik Ticaret Pazar Yeri (“Platform” veya “Dolap”) | :                                                                                                                                                                                                                                                                            | SMK ve FSEK uyarınca her türlü fikri ve sınai mülkiyet hakları ve mülkiyeti DSM’ye ait olan ve Aracılık Hizmetleri’nin sunulmakta olduğu [www.dolap.com](https://www.google.com/url?q=http://www.dolap.com&sa=D&source=editors&ust=1784272079196490&usg=AOvVaw16WY6LXKnSIjX2l7Rzmkag) ve bağlantılı tüm diğer alan adlarında mevcut olan internet sitesi ve mobil uygulama |
-| ETK                                                     | :                                                                                                                                                                                                                                                                            | 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun                                                                                                                                                                                                                                                                                                               |
-| FSEK                                                    | :                                                                                                                                                                                                                                                                            | 5846 sayılı Fikir ve Sanat Eserleri Kanunu                                                                                                                                                                                                                                                                                                                                 |
-| Kargo Fiyatları Tablosu                                 | :                                                                                                                                                                                                                                                                            | Ek 2’de yer alan Kargo Fiyatları Tablosu                                                                                                                                                                                                                                                                                                                                   |
-| Kişisel Verilerin Korunmasına Yönelik Protokol          | :                                                                                                                                                                                                                                                                            | Ek 3’te yer alan Kişisel Verilerin Korunmasına Yönelik Protokol                                                                                                                                                                                                                                                                                                            |
-| KVKK                                                    | :                                                                                                                                                                                                                                                                            | 6698 sayılı Kişisel Verilerin Korunması Kanunu                                                                                                                                                                                                                                                                                                                             |
-| Onaylanmış Elektronik İletişim Adresleri                | :                                                                                                                                                                                                                                                                            | Satıcı tarafından DSM’ye beyan edilen ve DSM tarafından doğrulanan telefon numarası ve elektronik posta adresi                                                                                                                                                                                                                                                             |
-| Platform Kuralları                                      | :                                                                                                                                                                                                                                                                            | Ek 1’de yer alan Dolap Platform Kuralları                                                                                                                                                                                                                                                                                                                                  |
-| Platform’dan Satışı Uygun Olmayan Ürünler Listesi       | :                                                                                                                                                                                                                                                                            | Platform Kuralları’nda yer alan Platform’dan Satışı Uygun Olmayan Ürünler Listesi                                                                                                                                                                                                                                                                                          |
-| Taşıyıcı Listesi                                        | :                                                                                                                                                                                                                                                                            | DSM tarafından belirlenen ve zaman zaman değiştirilebilecek şekilde Platform’da yer alan Taşıyıcı Listesi                                                                                                                                                                                                                                                                  |
-| Satıcı                                                  | :                                                                                                                                                                                                                                                                            | Sözleşme’de belirtilen gerekli şartları yerine getirerek elektronik ticaret hizmet sağlayıcısı sıfatıyla Platform üzerinde oluşturduğu hesabı ile Ürün’ü satışa sunan Üye                                                                                                                                                                                                  |
-| Satıcı Hizmet Bedeli                                    | :                                                                                                                                                                                                                                                                            | Sözleşme’nin 7.1\. maddesinde tanımlanan bedel                                                                                                                                                                                                                                                                                                                             |
-| Satıcı Davranış Kuralları                               | :                                                                                                                                                                                                                                                                            | Ek 5’de yer alan Satıcı Davranış Kuralları                                                                                                                                                                                                                                                                                                                                 |
-| SMK                                                     | :                                                                                                                                                                                                                                                                            | 6769 sayılı Sınai Mülkiyet Kanunu                                                                                                                                                                                                                                                                                                                                          |
-| Taşıma Hizmeti Bedeli                                   | :                                                                                                                                                                                                                                                                            | Sözleşme’nin 7.2\. maddesinde tanımlanan bedel                                                                                                                                                                                                                                                                                                                             |
-| Taşıyıcı                                                | :                                                                                                                                                                                                                                                                            | Kargo ve lojistik hizmetleri de dahil olmak üzere taşıma hizmetleri sağlayan gerçek ve tüzel kişiler                                                                                                                                                                                                                                                                       |
-| TKHK                                                    | :                                                                                                                                                                                                                                                                            | 6502 sayılı Tüketicinin Korunması Hakkında Kanun                                                                                                                                                                                                                                                                                                                           |
-| Ürün                                                    | :                                                                                                                                                                                                                                                                            | Satıcı’nın Platform’da satışa sunduğu çeşitli mal/ürün                                                                                                                                                                                                                                                                                                                     |
-| Üye                                                     | :                                                                                                                                                                                                                                                                            | Platform’da hesap açan ve Platform’da sunulan Aracılık Hizmetleri’nden, Sözleşme’de belirtilen koşullar dahilinde Alıcı ve/veya Satıcı sıfatıyla yararlanan yurt içinde veya yurt dışında mukim herhangi bir gerçek veya tüzel kişi,                                                                                                                                       |
+| Alıcı                                                   | :                                                                                                                                                                                                                                                                            | Platform üzerinde Satıcı tarafından satışa sunulan Ürün’ü satın alan ya da satın alma amacıyla hareket eden Üye                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alıcı Hizmet Bedeli                                     | :                                                                                                                                                                                                                                                                            | Sözleşme’nin 5.20\. maddesinde tanımlanan bedel                                                                                                                                                                                                                                                                                                                              |
+| Aracılık Hizmetleri                                     | :                                                                                                                                                                                                                                                                            | Platform’da elektronik ticaret işlemlerinin gerçekleştirilmesi ve siparişin teslim edilmesi amacıyla DSM tarafından Satıcı veya Alıcı’ya sunulan her türlü Hizmet                                                                                                                                                                                                            |
+| Dahili İletişim Sistemi                                 | :                                                                                                                                                                                                                                                                            | DSM’nin aracılık hizmeti sunduğu Satıcı ile Platform’daki her türlü iletişimini kolay ve ücretsiz sağlamak üzere oluşturduğu ve Platform üzerinden erişilen sistem                                                                                                                                                                                                           |
+| Desi                                                    | Kargo gönderimlerinde hacimsel ağırlık. Gönderi paketinin desisini hesaplamak için en, boy, yükseklik birbiri ile çarpılır ve 3000'e bölünür; fiyatlandırma, hacimsel ağırlık ve paket ağırlığından sayısal olarak hangisi büyük ise; büyük olan ölçüm baz alınarak yapılır. |                                                                                                                                                                                                                                                                                                                                                                              |
+| Dolap Bilgi Güvenliği Gereklilikleri                    | :                                                                                                                                                                                                                                                                            | Ek 4’te yer alan Dolap Üçüncü Taraf Bilgi Güvenliği Gereklilikleri Sözleşmesi                                                                                                                                                                                                                                                                                                |
+| Elektronik Ticaret Pazar Yeri (“Platform” veya “Dolap”) | :                                                                                                                                                                                                                                                                            | SMK ve FSEK uyarınca her türlü fikri ve sınai mülkiyet hakları ve mülkiyeti DSM’ye ait olan ve Aracılık Hizmetleri’nin sunulmakta olduğu [www.dolap.com](https://www.google.com/url?q=http://www.dolap.com&sa=D&source=editors&ust=1788250433344198&usg=AOvVaw14pkMykGssvFLp3Ej%5F3-dF) ve bağlantılı tüm diğer alan adlarında mevcut olan internet sitesi ve mobil uygulama |
+| ETK                                                     | :                                                                                                                                                                                                                                                                            | 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun                                                                                                                                                                                                                                                                                                                 |
+| FSEK                                                    | :                                                                                                                                                                                                                                                                            | 5846 sayılı Fikir ve Sanat Eserleri Kanunu                                                                                                                                                                                                                                                                                                                                   |
+| Kargo Fiyatları Tablosu                                 | :                                                                                                                                                                                                                                                                            | Ek 2’de yer alan Kargo Fiyatları Tablosu                                                                                                                                                                                                                                                                                                                                     |
+| Kişisel Verilerin Korunmasına Yönelik Protokol          | :                                                                                                                                                                                                                                                                            | Ek 3’te yer alan Kişisel Verilerin Korunmasına Yönelik Protokol                                                                                                                                                                                                                                                                                                              |
+| KVKK                                                    | :                                                                                                                                                                                                                                                                            | 6698 sayılı Kişisel Verilerin Korunması Kanunu                                                                                                                                                                                                                                                                                                                               |
+| Onaylanmış Elektronik İletişim Adresleri                | :                                                                                                                                                                                                                                                                            | Satıcı tarafından DSM’ye beyan edilen ve DSM tarafından doğrulanan telefon numarası ve elektronik posta adresi                                                                                                                                                                                                                                                               |
+| Platform Kuralları                                      | :                                                                                                                                                                                                                                                                            | Ek 1’de yer alan Dolap Platform Kuralları                                                                                                                                                                                                                                                                                                                                    |
+| Platform’dan Satışı Uygun Olmayan Ürünler Listesi       | :                                                                                                                                                                                                                                                                            | Platform Kuralları’nda yer alan Platform’dan Satışı Uygun Olmayan Ürünler Listesi                                                                                                                                                                                                                                                                                            |
+| Taşıyıcı Listesi                                        | :                                                                                                                                                                                                                                                                            | DSM tarafından belirlenen ve zaman zaman değiştirilebilecek şekilde Platform’da yer alan Taşıyıcı Listesi                                                                                                                                                                                                                                                                    |
+| Satıcı                                                  | :                                                                                                                                                                                                                                                                            | Sözleşme’de belirtilen gerekli şartları yerine getirerek elektronik ticaret hizmet sağlayıcısı sıfatıyla Platform üzerinde oluşturduğu hesabı ile Ürün’ü satışa sunan Üye                                                                                                                                                                                                    |
+| Satıcı Hizmet Bedeli                                    | :                                                                                                                                                                                                                                                                            | Sözleşme’nin 7.1\. maddesinde tanımlanan bedel                                                                                                                                                                                                                                                                                                                               |
+| Satıcı Davranış Kuralları                               | :                                                                                                                                                                                                                                                                            | Ek 5’de yer alan Satıcı Davranış Kuralları                                                                                                                                                                                                                                                                                                                                   |
+| SMK                                                     | :                                                                                                                                                                                                                                                                            | 6769 sayılı Sınai Mülkiyet Kanunu                                                                                                                                                                                                                                                                                                                                            |
+| Taşıma Hizmeti Bedeli                                   | :                                                                                                                                                                                                                                                                            | Sözleşme’nin 7.2\. maddesinde tanımlanan bedel                                                                                                                                                                                                                                                                                                                               |
+| Taşıyıcı                                                | :                                                                                                                                                                                                                                                                            | Kargo ve lojistik hizmetleri de dahil olmak üzere taşıma hizmetleri sağlayan gerçek ve tüzel kişiler                                                                                                                                                                                                                                                                         |
+| TKHK                                                    | :                                                                                                                                                                                                                                                                            | 6502 sayılı Tüketicinin Korunması Hakkında Kanun                                                                                                                                                                                                                                                                                                                             |
+| Ürün                                                    | :                                                                                                                                                                                                                                                                            | Satıcı’nın Platform’da satışa sunduğu çeşitli mal/ürün                                                                                                                                                                                                                                                                                                                       |
+| Üye                                                     | :                                                                                                                                                                                                                                                                            | Platform’da hesap açan ve Platform’da sunulan Aracılık Hizmetleri’nden, Sözleşme’de belirtilen koşullar dahilinde Alıcı ve/veya Satıcı sıfatıyla yararlanan yurt içinde veya yurt dışında mukim herhangi bir gerçek veya tüzel kişi,                                                                                                                                         |
 
 1. SÖZLEŞMENİN KONUSU
 
@@ -285,7 +285,7 @@ Fikri ve sınai mülkiyet hakkının kullanımına ve hak ihlaline ilişkin alı
 
 6.9\. Taşıma Hizmetlerine İlişkin Şartlar 
 
-6.9.1\. Satıcı, Ürünler’in Alıcı’ya teslimi bakımından, toplam tutarı 250 TL altı olan sepet için yalnızca “Alıcı Öder”; toplam tutarı 250 TL ve 400 TL arasında olan sepet için paylaşımlı şekilde, 400 TL üzeri olan sepet için ise yalnızca “Satıcı Öder” tercihi yapabilecektir. Satıcı, Ürünler’in Alıcı’ya teslimi bakımından “Satıcı Öder” tercihini yapması halinde, Ürünler’i Taşıyıcı Listesi’nde yer alan herhangi bir Taşıyıcı ile Alıcı’ya teslim edebilecek ve Ürün’ün Alıcı’ya tesliminden kaynaklı tüm taşıma hizmeti bedellerinden ve diğer ek maliyetlerden bizzat kendisi sorumlu olacaktır. Alıcı’nın Satıcı tarafından “Satıcı Öder” tercihi yapılan herhangi bir Ürün ile birlikte “Alıcı Öder” tercihi yapılan bir Ürün’ü bir sipariş etmesi halinde de, Satıcı, sipariş kapsamındaki tüm Ürünler için, bu Ürün’ün Alıcı’ya tesliminden kaynaklı tüm taşıma hizmeti bedellerinden ve diğer ek maliyetlerden bizzat kendisi sorumlu olacaktır.
+6.9.1\. Satıcı, Ürünler’in Alıcı’ya teslimi bakımından, toplam tutarı 250 TL ve altı olan sepet için “Satıcı Öder” veya “Alıcı Öder”; toplam tutarı 250 TL üzeri olan sepet için ise yalnızca “Satıcı Öder” tercihi yapabilecektir. Satıcı, Ürünler’in Alıcı’ya teslimi bakımından “Satıcı Öder” tercihini yapması halinde, Ürünler’i Taşıyıcı Listesi’nde yer alan herhangi bir Taşıyıcı ile Alıcı’ya teslim edebilecek ve Ürün’ün Alıcı’ya tesliminden kaynaklı tüm taşıma hizmeti bedellerinden ve diğer ek maliyetlerden bizzat kendisi sorumlu olacaktır. Alıcı’nın Satıcı tarafından “Satıcı Öder” tercihi yapılan herhangi bir Ürün ile birlikte “Alıcı Öder” tercihi yapılan bir Ürün’ü bir sipariş etmesi halinde de, Satıcı, sipariş kapsamındaki tüm Ürünler için, bu Ürün’ün Alıcı’ya tesliminden kaynaklı tüm taşıma hizmeti bedellerinden ve diğer ek maliyetlerden bizzat kendisi sorumlu olacaktır.
 
 6.9.2\. Satıcı’nın “Satıcı Öder” tercihini yapıp yapmadığına bakılmaksızın, Ürünler Taşıyıcı Listesi’nde yer alan ve DSM tarafından iadenin yapılabileceği belirtilen Taşıyıcı ile Satıcı’ya iade edebilecektir.
 
@@ -817,7 +817,7 @@ Dolap tarafından satıcı hesaplarına tanımlanan Roket haklarının kullanım
 
 Ek-2 Kargo Fiyatları Tablosu:
 
-Aşağıdaki tabloda yer alan fiyatlar Taşıyıcı Listesi’nde yer alan tüm Taşıyıcılar için geçerli baz kargo fiyatlarıdır. “Satıcı Öder” tercihinin yapılması halinde Satıcı, “Alıcı Öder” tercihinin yapılması halinde ise Alıcı tarafından ödenecek tutardır. 250 TL altındaki siparişlerde kargo ücreti Alıcı tarafından ödenecektir. 250 TL - 400 TL aralığında siparişlerde kargo ücreti Alıcı ve Satıcı tarafından Paylaşımlı olarak aşağıdaki tabloda yer alan tutarlar üzerinden ödenir. 400 TL üzeri siparişlerde kargo ücreti ise Satıcı tarafından ödenir. 
+Aşağıdaki tabloda yer alan fiyatlar Taşıyıcı Listesi’nde yer alan tüm Taşıyıcılar için geçerli baz kargo fiyatlarıdır. “Satıcı Öder” tercihinin yapılması halinde Satıcı, “Alıcı Öder” tercihinin yapılması halinde ise Alıcı tarafından ödenecek tutardır. 250-400 TL aralığında kargo ücretleri alıcı ve satıcı tarafından paylaşımlı olarak ödenecektir.
 
 < 250 TL altı kargolarda
 
@@ -828,13 +828,13 @@ Aşağıdaki tabloda yer alan fiyatlar Taşıyıcı Listesi’nde yer alan tüm 
 | Büyük Paket             | 6-99,99      | 199,99TL        |
 | Fiyatlara KDV dahildir. |              |                 |
 
-250-400 TL aralığındaki kargolar alıcı ve satıcı arasında paylaşımlı olarak aşağıdaki tutarlar üzerinden ödenir.
+250-400 TL aralığındaki kargolar alıcı ve satıcı arasında paylaşımlı ödenir.
 
 | Paket Boyutu            | Desi Aralığı | Alıcı    | Satıcı    |
 | ----------------------- | ------------ | -------- | --------- |
-| Küçük Paket             | 0-1,99       | 29,99 TL | 29,99 TL  |
-| Orta Paket              | 2-5,99       | 29,99 TL | 105,99 TL |
-| Büyük Paket             | 6-99,99      | 29,99 TL | 169,99 TL |
+| Küçük Paket             | 0-1,99       | 29.99 TL | 29.99 TL  |
+| Orta Paket              | 2-5,99       | 29.99 TL | 105.99 TL |
+| Büyük Paket             | 6-99,99      | 29.99 TL | 169.99 TL |
 | Fiyatlara KDV dahildir. |              |          |           |
 
 \> 400 TL üstü kargolarda
@@ -850,109 +850,109 @@ Satıcı’nın “Satıcı Öder” tercihinin yapıp yapmadığına bakılmaks
 
 | Desi                    | Paket Boyutu | DHL eCommerce | SURAT  | ARAS   | PTT    | TEX - Evden | TEX- Esnaf Şube | Yurtiçi |
 | ----------------------- | ------------ | ------------- | ------ | ------ | ------ | ----------- | --------------- | ------- |
-| 0-1,99                  | Küçük        | 40,00TL       | 0,00TL | 0,00TL | 0,00TL | 5,00TL      | 0,00TL          | 58,00TL |
-| 2-5,99                  | Orta         | 50,00TL       | 0,00TL | 0,00TL | 0,00TL | 5,00TL      | 0,00TL          | 57,00TL |
+| 0-1,99                  | Küçük        | 30,00TL       | 0,00TL | 0,00TL | 0,00TL | 5,00TL      | 0,00TL          | 47,00TL |
+| 2-5,99                  | Orta         | 37,00TL       | 0,00TL | 0,00TL | 0,00TL | 5,00TL      | 0,00TL          | 45,00TL |
 | Fiyatlara KDV dahildir. |              |               |        |        |        |             |                 |         |
 
-Satıcı’nın “Satıcı Öder” tercihinin yapıp yapmadığına bakılmaksızın, Satıcı, Büyük Paket için Taşıyıcı Listesi’nden seçeceği Taşıyıcı’ya göre belirlenecek aşağıdaki desi bazlı kargo fiyatlarından yukarıda yer alan baz kargo fiyatı düşülerek hesaplanacak ek kargo fiyatlarını ödemekle yükümlüdür:
+Satıcı’nın “Satıcı Öder” tercihinin yapıp yapmadığına bakılmaksızın, Satıcı, Büyük Paket için Taşıyıcı Listesi’nden seçeceği Taşıyıcı’ya göre belirlenecek aşağıdaki desi bazlı kargo fiyatlarından yukarıda yer alan baz kargo fiyatı düşülürek hesaplanacak ek kargo fiyatlarını ödemekle yükümlüdür:
 
 | Desi   | DHL eCommerce | SURAT   | ARAS    | PTT     | TEX - Evden | TEX- Esnaf Şube | Yurtiçi |
 | ------ | ------------- | ------- | ------- | ------- | ----------- | --------------- | ------- |
-| 6-7    | 186,11        | 132,64  | 115,31  | 115,00  | 115,80      | 111,00          | 181,12  |
-| 7-8    | 196,67        | 141,70  | 122,28  | 120,35  | 122,51      | 117,71          | 204,84  |
-| 8-9    | 207,23        | 150,61  | 136,10  | 133,97  | 135,82      | 131,02          | 212,70  |
-| 9-10   | 220,43        | 159,68  | 149,99  | 147,62  | 149,18      | 144,38          | 225,90  |
-| 10-11  | 229,67        | 168,60  | 167,83  | 168,11  | 166,62      | 161,82          | 235,87  |
-| 11-12  | 240,23        | 174,18  | 173,41  | 176,50  | 172,48      | 167,68          | 251,16  |
-| 12-13  | 253,43        | 181,58  | 181,58  | 185,50  | 179,59      | 174,79          | 266,95  |
-| 13-14  | 266,63        | 188,83  | 190,36  | 194,51  | 188,04      | 183,24          | 275,36  |
-| 14-15  | 279,83        | 196,08  | 199,09  | 203,50  | 196,45      | 191,65          | 296,94  |
-| 15-16  | 281,15        | 203,34  | 207,80  | 212,47  | 204,84      | 200,04          | 312,78  |
-| 16-17  | 319,43        | 214,67  | 216,53  | 221,46  | 213,24      | 208,44          | 321,73  |
-| 17-18  | 336,59        | 226,00  | 225,26  | 230,46  | 222,35      | 217,55          | 339,60  |
-| 18-19  | 359,03        | 237,48  | 235,78  | 239,45  | 233,40      | 228,60          | 356,45  |
-| 19-20  | 378,83        | 248,81  | 247,02  | 248,46  | 243,97      | 239,17          | 363,85  |
-| 20-21  | 399,95        | 258,02  | 258,22  | 257,46  | 253,18      | 248,38          | 371,70  |
-| 21-22  | 432,95        | 269,71  | 269,77  | 266,45  | 264,43      | 259,63          | 392,77  |
-| 22-23  | 454,07        | 280,06  | 279,83  | 275,44  | 274,16      | 269,36          | 404,90  |
-| 23-24  | 489,71        | 290,40  | 288,98  | 284,42  | 282,98      | 278,18          | 420,18  |
-| 24-25  | 522,71        | 300,72  | 298,09  | 293,40  | 291,76      | 286,96          | 428,59  |
-| 25-26  | 553,07        | 311,06  | 307,25  | 302,42  | 300,56      | 295,76          | 457,50  |
-| 26-27  | 588,71        | 338,78  | 316,39  | 311,41  | 309,37      | 304,57          | 500,17  |
-| 27-28  | 621,71        | 349,43  | 325,54  | 320,40  | 318,17      | 313,37          | 523,84  |
-| 28-29  | 654,71        | 359,92  | 334,66  | 329,39  | 326,95      | 322,15          | 547,57  |
-| 29-30  | 687,71        | 370,40  | 343,80  | 338,38  | 335,75      | 330,95          | 566,53  |
-| 30-31  | 720,71        | 380,89  | 343,80  | 346,63  | 338,47      | 333,67          | 572,33  |
-| 31-32  | 765,58        | 455,66  | 354,95  | 722,28  | 443,44      | 438,64          | 588,77  |
-| 32-33  | 810,44        | 469,00  | 366,10  | 739,70  | 456,26      | 451,46          | 605,20  |
-| 33-34  | 855,31        | 482,34  | 377,26  | 757,12  | 469,12      | 464,32          | 621,62  |
-| 34-35  | 900,18        | 495,52  | 388,40  | 774,54  | 481,80      | 477,00          | 638,06  |
-| 35-36  | 945,05        | 508,86  | 399,56  | 791,94  | 494,64      | 489,84          | 654,49  |
-| 36-37  | 989,92        | 522,05  | 410,71  | 809,36  | 507,34      | 502,54          | 670,93  |
-| 37-38  | 1034,78       | 535,22  | 421,86  | 826,78  | 520,02      | 515,22          | 687,36  |
-| 38-39  | 1079,65       | 548,57  | 433,02  | 844,20  | 532,86      | 528,06          | 703,80  |
-| 39-40  | 1124,52       | 561,76  | 444,17  | 861,60  | 545,56      | 540,76          | 720,23  |
-| 40-41  | 1169,39       | 575,09  | 455,32  | 879,02  | 558,40      | 553,60          | 736,67  |
-| 41-42  | 1214,26       | 588,28  | 466,48  | 896,44  | 571,09      | 566,29          | 753,10  |
-| 42-43  | 1259,12       | 601,61  | 477,62  | 913,86  | 583,92      | 579,12          | 769,52  |
-| 43-44  | 1303,99       | 614,80  | 488,77  | 931,27  | 596,62      | 591,82          | 785,96  |
-| 44-45  | 1348,86       | 628,13  | 499,93  | 948,68  | 609,46      | 604,66          | 802,39  |
-| 45-46  | 1393,73       | 641,32  | 511,08  | 966,10  | 622,15      | 617,35          | 818,83  |
-| 46-47  | 1438,60       | 654,66  | 522,23  | 983,52  | 634,99      | 630,19          | 835,26  |
-| 47-48  | 1483,46       | 667,84  | 533,39  | 1000,93 | 647,68      | 642,88          | 851,70  |
-| 48-49  | 1528,33       | 681,17  | 544,54  | 1018,36 | 660,52      | 655,72          | 868,13  |
-| 49-50  | 1573,20       | 694,37  | 555,68  | 1035,76 | 673,21      | 668,41          | 884,56  |
-| 50-51  | 1618,07       | 707,70  | 566,84  | 1053,18 | 686,05      | 681,25          | 901,00  |
-| 51-52  | 1662,94       | 720,88  | 577,99  | 1070,59 | 698,74      | 693,94          | 917,42  |
-| 52-53  | 1707,80       | 734,22  | 589,14  | 1088,02 | 711,58      | 706,78          | 933,86  |
-| 53-54  | 1752,67       | 747,41  | 600,30  | 1105,42 | 724,27      | 719,47          | 950,29  |
-| 54-55  | 1797,54       | 760,74  | 611,45  | 1122,84 | 737,11      | 732,31          | 966,73  |
-| 55-56  | 1842,41       | 773,93  | 622,60  | 1140,25 | 749,81      | 745,01          | 983,16  |
-| 56-57  | 1887,28       | 787,26  | 633,76  | 1157,68 | 762,64      | 757,84          | 999,60  |
-| 57-58  | 1932,14       | 800,45  | 644,90  | 1175,09 | 775,33      | 770,53          | 1016,03 |
-| 58-59  | 1977,01       | 813,78  | 656,05  | 1192,50 | 788,16      | 783,36          | 1032,46 |
-| 59-60  | 2021,88       | 826,97  | 667,21  | 1209,91 | 800,86      | 796,06          | 1048,90 |
-| 60-61  | 2066,75       | 840,31  | 678,36  | 1227,34 | 813,71      | 808,91          | 1065,32 |
-| 61-62  | 2111,62       | 853,49  | 689,51  | 1244,75 | 826,39      | 821,59          | 1081,76 |
-| 62-63  | 2156,48       | 866,83  | 700,67  | 1262,17 | 839,23      | 834,43          | 1098,19 |
-| 63-64  | 2201,35       | 880,02  | 711,82  | 1279,57 | 851,93      | 847,13          | 1114,63 |
-| 64-65  | 2246,22       | 893,34  | 722,96  | 1297,00 | 864,76      | 859,96          | 1131,06 |
-| 65-66  | 2291,09       | 906,54  | 734,12  | 1314,41 | 877,46      | 872,66          | 1147,50 |
-| 66-67  | 2335,96       | 919,87  | 745,27  | 1331,83 | 890,29      | 885,49          | 1163,93 |
-| 67-68  | 2380,82       | 933,05  | 756,42  | 1349,23 | 902,98      | 898,18          | 1180,36 |
-| 68-69  | 2425,69       | 946,39  | 767,58  | 1366,66 | 915,82      | 911,02          | 1196,80 |
-| 69-70  | 2470,56       | 959,58  | 778,73  | 1384,07 | 928,51      | 923,71          | 1213,22 |
-| 70-71  | 2515,43       | 972,92  | 789,88  | 1401,49 | 941,36      | 936,56          | 1229,66 |
-| 71-72  | 2560,30       | 986,10  | 801,04  | 1418,90 | 954,05      | 949,25          | 1246,09 |
-| 72-73  | 2605,16       | 999,43  | 812,18  | 1436,32 | 966,88      | 962,08          | 1262,53 |
-| 73-74  | 2650,03       | 1012,63 | 823,33  | 1453,73 | 979,58      | 974,78          | 1278,96 |
-| 74-75  | 2694,90       | 1025,95 | 834,49  | 1471,15 | 992,41      | 987,61          | 1295,40 |
-| 75-76  | 2739,77       | 1039,14 | 845,64  | 1488,56 | 1005,11     | 1000,31         | 1311,83 |
-| 76-77  | 2784,64       | 1052,48 | 856,79  | 1505,99 | 1017,95     | 1013,15         | 1328,26 |
-| 77-78  | 2829,50       | 1065,66 | 867,95  | 1523,39 | 1030,63     | 1025,83         | 1344,70 |
-| 78-79  | 2874,37       | 1079,00 | 879,10  | 1540,81 | 1043,47     | 1038,67         | 1361,12 |
-| 79-80  | 2919,24       | 1092,19 | 890,24  | 1558,22 | 1056,17     | 1051,37         | 1377,56 |
-| 80-81  | 2964,11       | 1105,52 | 901,40  | 1575,65 | 1069,01     | 1064,21         | 1393,99 |
-| 81-82  | 3008,98       | 1118,70 | 912,55  | 1593,05 | 1081,69     | 1076,89         | 1410,43 |
-| 82-83  | 3053,84       | 1131,90 | 923,70  | 1610,47 | 1094,40     | 1089,60         | 1426,86 |
-| 83-84  | 3098,71       | 1145,23 | 934,86  | 1627,88 | 1107,23     | 1102,43         | 1443,30 |
-| 84-85  | 3143,58       | 1158,56 | 946,01  | 1645,31 | 1120,07     | 1115,27         | 1459,73 |
-| 85-86  | 3188,45       | 1171,75 | 957,16  | 1662,72 | 1132,76     | 1127,96         | 1476,16 |
-| 86-87  | 3233,32       | 1185,10 | 968,32  | 1680,13 | 1145,60     | 1140,80         | 1492,60 |
-| 87-88  | 3278,18       | 1198,27 | 979,46  | 1697,54 | 1158,29     | 1153,49         | 1509,02 |
-| 88-89  | 3323,05       | 1211,60 | 990,61  | 1714,97 | 1171,12     | 1166,32         | 1525,46 |
-| 89-90  | 3367,92       | 1224,79 | 1001,77 | 1732,38 | 1183,81     | 1179,01         | 1541,89 |
-| 90-91  | 3412,79       | 1238,14 | 1012,92 | 1749,80 | 1196,66     | 1191,86         | 1558,33 |
-| 91-92  | 3457,66       | 1251,31 | 1024,07 | 1767,20 | 1209,35     | 1204,55         | 1574,76 |
-| 92-93  | 3502,52       | 1264,50 | 1035,23 | 1784,63 | 1222,04     | 1217,24         | 1591,20 |
-| 93-94  | 3547,39       | 1277,84 | 1046,38 | 1802,04 | 1234,88     | 1230,08         | 1607,63 |
-| 94-95  | 3592,26       | 1291,16 | 1057,52 | 1819,46 | 1247,71     | 1242,91         | 1624,06 |
-| 95-96  | 3637,13       | 1304,36 | 1068,68 | 1836,86 | 1260,42     | 1255,62         | 1640,50 |
-| 96-97  | 3682,00       | 1317,55 | 1079,83 | 1854,29 | 1273,10     | 1268,30         | 1656,92 |
-| 97-98  | 3726,86       | 1330,87 | 1090,98 | 1871,70 | 1285,93     | 1281,13         | 1673,36 |
-| 98-99  | 3771,73       | 1344,07 | 1102,14 | 1889,12 | 1298,64     | 1293,84         | 1689,79 |
-| 99-100 | 3816,60       | 1357,40 | 1113,29 | 1906,54 | 1311,47     | 1306,67         | 1706,23 |
-| 100+   | 3861,47       | 1370,75 | 1124,44 | 1923,96 | 1324,32     | 1319,52         | 1722,66 |
+| 6-7    | 169,19        | 132,64  | 115,31  | 115,00  | 115,80      | 111,00          | 164,70  |
+| 7-8    | 178,79        | 141,70  | 122,28  | 120,35  | 122,51      | 117,71          | 186,26  |
+| 8-9    | 188,39        | 150,61  | 136,10  | 133,97  | 135,82      | 131,02          | 193,42  |
+| 9-10   | 200,39        | 159,68  | 149,99  | 147,62  | 149,18      | 144,38          | 205,42  |
+| 10-11  | 208,79        | 168,60  | 167,83  | 168,11  | 166,62      | 161,82          | 214,48  |
+| 11-12  | 218,39        | 174,18  | 173,41  | 176,50  | 172,48      | 167,68          | 228,37  |
+| 12-13  | 230,39        | 181,58  | 181,58  | 185,50  | 179,59      | 174,79          | 242,72  |
+| 13-14  | 242,39        | 188,83  | 190,36  | 194,51  | 188,04      | 183,24          | 250,38  |
+| 14-15  | 254,39        | 196,08  | 199,09  | 203,50  | 196,45      | 191,65          | 270,00  |
+| 15-16  | 255,59        | 203,34  | 207,80  | 212,47  | 204,84      | 200,04          | 284,40  |
+| 16-17  | 290,39        | 214,67  | 216,53  | 221,46  | 213,24      | 208,44          | 292,54  |
+| 17-18  | 305,99        | 226,00  | 225,26  | 230,46  | 222,35      | 217,55          | 308,78  |
+| 18-19  | 326,39        | 237,48  | 235,78  | 239,45  | 233,40      | 228,60          | 324,10  |
+| 19-20  | 344,39        | 248,81  | 247,02  | 248,46  | 243,97      | 239,17          | 330,83  |
+| 20-21  | 363,59        | 258,02  | 258,22  | 257,46  | 253,18      | 248,38          | 337,97  |
+| 21-22  | 393,59        | 269,71  | 269,77  | 266,45  | 264,43      | 259,63          | 357,11  |
+| 22-23  | 412,79        | 280,06  | 279,83  | 275,44  | 274,16      | 269,36          | 368,14  |
+| 23-24  | 445,19        | 290,40  | 288,98  | 284,42  | 282,98      | 278,18          | 382,03  |
+| 24-25  | 475,19        | 300,72  | 298,09  | 293,40  | 291,76      | 286,96          | 389,69  |
+| 25-26  | 502,79        | 311,06  | 307,25  | 302,42  | 300,56      | 295,76          | 415,97  |
+| 26-27  | 535,19        | 338,78  | 316,39  | 311,41  | 309,37      | 304,57          | 454,75  |
+| 27-28  | 565,19        | 349,43  | 325,54  | 320,40  | 318,17      | 313,37          | 476,27  |
+| 28-29  | 595,19        | 359,92  | 334,66  | 329,39  | 326,95      | 322,15          | 497,84  |
+| 29-30  | 625,19        | 370,40  | 343,80  | 338,38  | 335,75      | 330,95          | 515,09  |
+| 30-31  | 655,19        | 380,89  | 343,80  | 346,63  | 338,47      | 333,67          | 520,36  |
+| 31-32  | 695,98        | 455,66  | 354,95  | 722,28  | 443,44      | 438,64          | 535,28  |
+| 32-33  | 736,76        | 469,00  | 366,10  | 739,70  | 456,26      | 451,46          | 550,24  |
+| 33-34  | 777,55        | 482,34  | 377,26  | 757,12  | 469,12      | 464,32          | 565,16  |
+| 34-35  | 818,34        | 495,52  | 388,40  | 774,54  | 481,80      | 477,00          | 580,12  |
+| 35-36  | 859,13        | 508,86  | 399,56  | 791,94  | 494,64      | 489,84          | 595,06  |
+| 36-37  | 899,92        | 522,05  | 410,71  | 809,36  | 507,34      | 502,54          | 609,98  |
+| 37-38  | 940,70        | 535,22  | 421,86  | 826,78  | 520,02      | 515,22          | 624,94  |
+| 38-39  | 981,49        | 548,57  | 433,02  | 844,20  | 532,86      | 528,06          | 639,86  |
+| 39-40  | 1022,28       | 561,76  | 444,17  | 861,60  | 545,56      | 540,76          | 654,82  |
+| 40-41  | 1063,07       | 575,09  | 455,32  | 879,02  | 558,40      | 553,60          | 669,74  |
+| 41-42  | 1103,86       | 588,28  | 466,48  | 896,44  | 571,09      | 566,29          | 684,68  |
+| 42-43  | 1144,64       | 601,61  | 477,62  | 913,86  | 583,92      | 579,12          | 699,64  |
+| 43-44  | 1185,43       | 614,80  | 488,77  | 931,27  | 596,62      | 591,82          | 714,56  |
+| 44-45  | 1226,22       | 628,13  | 499,93  | 948,68  | 609,46      | 604,66          | 729,52  |
+| 45-46  | 1267,01       | 641,32  | 511,08  | 966,10  | 622,15      | 617,35          | 744,44  |
+| 46-47  | 1307,80       | 654,66  | 522,23  | 983,52  | 634,99      | 630,19          | 759,38  |
+| 47-48  | 1348,58       | 667,84  | 533,39  | 1000,93 | 647,68      | 642,88          | 774,34  |
+| 48-49  | 1389,37       | 681,17  | 544,54  | 1018,36 | 660,52      | 655,72          | 789,26  |
+| 49-50  | 1430,16       | 694,37  | 555,68  | 1035,76 | 673,21      | 668,41          | 804,22  |
+| 50-51  | 1470,95       | 707,70  | 566,84  | 1053,18 | 686,05      | 681,25          | 819,14  |
+| 51-52  | 1511,74       | 720,88  | 577,99  | 1070,59 | 698,74      | 693,94          | 834,08  |
+| 52-53  | 1552,52       | 734,22  | 589,14  | 1088,02 | 711,58      | 706,78          | 849,04  |
+| 53-54  | 1593,31       | 747,41  | 600,30  | 1105,42 | 724,27      | 719,47          | 863,96  |
+| 54-55  | 1634,10       | 760,74  | 611,45  | 1122,84 | 737,11      | 732,31          | 878,92  |
+| 55-56  | 1674,89       | 773,93  | 622,60  | 1140,25 | 749,81      | 745,01          | 893,84  |
+| 56-57  | 1715,68       | 787,26  | 633,76  | 1157,68 | 762,64      | 757,84          | 908,78  |
+| 57-58  | 1756,46       | 800,45  | 644,90  | 1175,09 | 775,33      | 770,53          | 923,72  |
+| 58-59  | 1797,25       | 813,78  | 656,05  | 1192,50 | 788,16      | 783,36          | 938,66  |
+| 59-60  | 1838,04       | 826,97  | 667,21  | 1209,91 | 800,86      | 796,06          | 953,62  |
+| 60-61  | 1878,83       | 840,31  | 678,36  | 1227,34 | 813,71      | 808,91          | 968,54  |
+| 61-62  | 1919,62       | 853,49  | 689,51  | 1244,75 | 826,39      | 821,59          | 983,48  |
+| 62-63  | 1960,40       | 866,83  | 700,67  | 1262,17 | 839,23      | 834,43          | 998,42  |
+| 63-64  | 2001,19       | 880,02  | 711,82  | 1279,57 | 851,93      | 847,13          | 1013,36 |
+| 64-65  | 2041,98       | 893,34  | 722,96  | 1297,00 | 864,76      | 859,96          | 1028,32 |
+| 65-66  | 2082,77       | 906,54  | 734,12  | 1314,41 | 877,46      | 872,66          | 1043,24 |
+| 66-67  | 2123,56       | 919,87  | 745,27  | 1331,83 | 890,29      | 885,49          | 1058,18 |
+| 67-68  | 2164,34       | 933,05  | 756,42  | 1349,23 | 902,98      | 898,18          | 1073,12 |
+| 68-69  | 2205,13       | 946,39  | 767,58  | 1366,66 | 915,82      | 911,02          | 1088,06 |
+| 69-70  | 2245,92       | 959,58  | 778,73  | 1384,07 | 928,51      | 923,71          | 1103,00 |
+| 70-71  | 2286,71       | 972,92  | 789,88  | 1401,49 | 941,36      | 936,56          | 1117,94 |
+| 71-72  | 2327,50       | 986,10  | 801,04  | 1418,90 | 954,05      | 949,25          | 1132,88 |
+| 72-73  | 2368,28       | 999,43  | 812,18  | 1436,32 | 966,88      | 962,08          | 1147,82 |
+| 73-74  | 2409,07       | 1012,63 | 823,33  | 1453,73 | 979,58      | 974,78          | 1162,76 |
+| 74-75  | 2449,86       | 1025,95 | 834,49  | 1471,15 | 992,41      | 987,61          | 1177,70 |
+| 75-76  | 2490,65       | 1039,14 | 845,64  | 1488,56 | 1005,11     | 1000,31         | 1192,64 |
+| 76-77  | 2531,44       | 1052,48 | 856,79  | 1505,99 | 1017,95     | 1013,15         | 1207,58 |
+| 77-78  | 2572,22       | 1065,66 | 867,95  | 1523,39 | 1030,63     | 1025,83         | 1222,52 |
+| 78-79  | 2613,01       | 1079,00 | 879,10  | 1540,81 | 1043,47     | 1038,67         | 1237,46 |
+| 79-80  | 2653,80       | 1092,19 | 890,24  | 1558,22 | 1056,17     | 1051,37         | 1252,40 |
+| 80-81  | 2694,59       | 1105,52 | 901,40  | 1575,65 | 1069,01     | 1064,21         | 1267,34 |
+| 81-82  | 2735,38       | 1118,70 | 912,55  | 1593,05 | 1081,69     | 1076,89         | 1282,27 |
+| 82-83  | 2776,16       | 1131,90 | 923,70  | 1610,47 | 1094,40     | 1089,60         | 1297,22 |
+| 83-84  | 2816,95       | 1145,23 | 934,86  | 1627,88 | 1107,23     | 1102,43         | 1312,16 |
+| 84-85  | 2857,74       | 1158,56 | 946,01  | 1645,31 | 1120,07     | 1115,27         | 1327,10 |
+| 85-86  | 2898,53       | 1171,75 | 957,16  | 1662,72 | 1132,76     | 1127,96         | 1342,04 |
+| 86-87  | 2939,32       | 1185,10 | 968,32  | 1680,13 | 1145,60     | 1140,80         | 1356,97 |
+| 87-88  | 2980,10       | 1198,27 | 979,46  | 1697,54 | 1158,29     | 1153,49         | 1371,92 |
+| 88-89  | 3020,89       | 1211,60 | 990,61  | 1714,97 | 1171,12     | 1166,32         | 1386,86 |
+| 89-90  | 3061,68       | 1224,79 | 1001,77 | 1732,38 | 1183,81     | 1179,01         | 1401,80 |
+| 90-91  | 3102,47       | 1238,14 | 1012,92 | 1749,80 | 1196,66     | 1191,86         | 1416,74 |
+| 91-92  | 3143,26       | 1251,31 | 1024,07 | 1767,20 | 1209,35     | 1204,55         | 1431,67 |
+| 92-93  | 3184,04       | 1264,50 | 1035,23 | 1784,63 | 1222,04     | 1217,24         | 1446,62 |
+| 93-94  | 3224,83       | 1277,84 | 1046,38 | 1802,04 | 1234,88     | 1230,08         | 1461,56 |
+| 94-95  | 3265,62       | 1291,16 | 1057,52 | 1819,46 | 1247,71     | 1242,91         | 1476,50 |
+| 95-96  | 3306,41       | 1304,36 | 1068,68 | 1836,86 | 1260,42     | 1255,62         | 1491,44 |
+| 96-97  | 3347,20       | 1317,55 | 1079,83 | 1854,29 | 1273,10     | 1268,30         | 1506,37 |
+| 97-98  | 3387,98       | 1330,87 | 1090,98 | 1871,70 | 1285,93     | 1281,13         | 1521,32 |
+| 98-99  | 3428,77       | 1344,07 | 1102,14 | 1889,12 | 1298,64     | 1293,84         | 1536,25 |
+| 99-100 | 3469,56       | 1357,40 | 1113,29 | 1906,54 | 1311,47     | 1306,67         | 1551,20 |
+| 100+   | 3510,35       | 1370,75 | 1124,44 | 1923,96 | 1324,32     | 1319,52         | 1566,14 |
 
 Fiyatlara KDV dahildir.
 
@@ -971,7 +971,7 @@ EK 3: KİŞİSEL VERİLERİN KORUNMASINA YÖNELİK PROTOKOL
 2. DSM, Ana Sözleşme kapsamında kişisel verilerin, KVKK da dahil her türlü mevzuata uygun bir şekilde işlenmesine, güvenliğinin sağlanmasına ve korunmasına önem vermektedir. DSM, Ana sözleşmenin kurulması ve ifası sırasında elde ettiği kişisel verileri, işbu sözleşmede belirtilen hizmetlerin sunulması, siparişin oluşması ve teslimatın gerçekleşmesi, Üye’nin memnuniyetinin arttırılmasına yönelik faaliyetlerin yürütülmesi, hesaplarının güvenliğinin sağlanması, sahtecilik, dolandırıcılık, Platform’un kötüye kullanımı, Türk Ceza Kanunu anlamında suç oluşturabilecek konularda çıkan uyuşmazlıkların giderilmesi amaçları başta olmak üzere, Üye’nin kişisel verilerini işlemekte ve paylaşmaktadır.
 3. Üye, her zaman üyeliğini herhangi bir sebep göstermeksizin tek taraflı olarak sona erdirebilecektir. Üye, Üye hesabının kapatılması sürecini Platform üzerinden gerçekleştirebilecektir. Platform’da yer alan “Hesabım” sayfasında bulunan ilgili adımları takip ederek hesabını kapatmaya yönelik işlemleri başlatabilecektir. Üye, Üye hesabının kapatılmasından sonra Üye hesabını yeniden kullanamayacağını ve/veya hesaba bağlı tanımlanmış hak ve avantajların geri alamayacağını, muhtelif hesaplara aktaramayacağını anladığını kabul eder. Üye, Ana Sözleşme’nin sona ermesi/Üye hesabının kapatılması ile birlikte işleme ve saklama amacı ortadan kalkan kişisel veriler mevzuata uygun olarak silinmekte olup; Üye’nin mevzuat uyarınca saklanması zorunlu olan kişisel verileri işlenme amacı ortadan kalkana kadar DSM tarafından işlenmeye devam edecektir.
 4. Üye, gerek Platform’a kayıt sırasında gerekse Platform’u kullanırken yüklediği ve sağladığı kişisel veri, bilgi, fotoğraf, video, fikir, ifade, yorum, puan, yazışma ve sair tüm içeriklerinin KVKK ve ilgili mevzuata uygun olacağını, üçüncü kişilere ait kişisel verileri içermeyeceğini, aksi halde üçüncü kişilerden gelecek tüm taleplerden bizzat sorumlu olacağını kabul eder.
-5. Üye, kişisel verileri işleme ve paylaşma faaliyetleri hakkında [https://dolap.com/kisisel-verilerin-korunmasi](https://www.google.com/url?q=https://dolap.com/kisisel-verilerin-korunmasi&sa=D&source=editors&ust=1784272079753445&usg=AOvVaw3kB7Ay%5Fc8QK3nC2ZVNmARs) linkinde yer alan Üyelerimize Yöneli̇k Ki̇şi̇sel Veri̇leri̇n Korunmasına İlişkin Aydınlatma Metni (“Aydınlatma Metni”) vasıtasıyla detaylı bilgiyi elde edebilecektir.
+5. Üye, kişisel verileri işleme ve paylaşma faaliyetleri hakkında [https://dolap.com/kisisel-verilerin-korunmasi](https://www.google.com/url?q=https://dolap.com/kisisel-verilerin-korunmasi&sa=D&source=editors&ust=1788250433812468&usg=AOvVaw3YKDUzxw3MA5nccdCyEPLF) linkinde yer alan Üyelerimize Yöneli̇k Ki̇şi̇sel Veri̇leri̇n Korunmasına İlişkin Aydınlatma Metni (“Aydınlatma Metni”) vasıtasıyla detaylı bilgiyi elde edebilecektir.
 6. Üye, işlenmekte olan kişisel verilerine ilişkin ayrıntılı bilgi almak ve KVKK kapsamındaki hak ve taleplerini yöneltmek amacıyla Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’in 5.maddesinde belirtilen zorunlu unsurları içerecek şekilde, Aydınlatma Metni’nde yer alan başvuru yöntemleriyle veya üyelik hesabında kayıtlı e-posta adresi üzerinden kvkk@dolap.com adresine e-posta göndererek DSM’ye başvuruda bulunabilir.
 1. ÖZEL DÜZENLEMELER
 
@@ -1151,6 +1151,196 @@ Trendyol Group, tüm İş Ortaklarından, İş Ortağı Davranış Kuralları’
 7\. 3\. KİŞİ HAKLARININ OLUŞTURULMAMASI
 
 İş Ortağı Davranış Kuralları, 3\. Kişilere bir hak vermez ve/veya verdiği anlamına gelmez. Hiçbir İş Ortağı’nın çalışanı, İş Ortağı Davranış Kuralları sayesinde Trendyol Group’a karşı hiçbir hak sahibi olamadığı gibi yine bu çalışanlar, bu İş Ortağı Davranış Kurallarının hükümlerini Trendyol Group’a uygulatma hakkına da sahip olamaz. Bu gibi fiillere ilişkin karar Trendyol Group nezdinde saklı olup tamamen Trendyol Group’un takdirine bağlıdır.
+
+DOLAP ÜYELİK SÖZLEŞMESİ
+
+DEĞİŞİKLİK PROTOKOLÜ
+
+GİRİŞ
+
+1.1\. İşbu Dolap Üyelik Sözleşmesi- Değişiklik Protokolü ("Protokol"), Dolap Üyelik Sözleşmesi’nin (“Sözleşme”) eki ve ayrılmaz bir parçası olarak, Sözleşme’nin hükümlerinin Protokol kapsamı ile sınırlı olarak değiştirilmesi amacıyla akdedilmiştir.
+
+1.2\. Protokol’de aksi açıkça belirtilmedikçe Sözleşme’de yer alan tanımlar/terimler, Protokol bakımından da geçerli ve yürürlükte olacaktır. 
+
+HÜKÜMLER
+
+2.1. Sözleşme’nin “ Ek-1 Platform Kuralları” başlıklı 19\. maddesine aşağıdaki madde eklenmiştir.
+
+“19\. SATICI KAYNAKLI İPTAL EŞİKLERİ VE KISITLAMALAR
+
+Kurumsal/Ticari ve Bireysel satıcıların gerçekleştirdiği işlemler neticesinde, Satıcı Sebepli İptal Oranlarının belirli eşik seviyelere ulaşması durumunda aşağıdaki dereceli yaptırımlar uygulanır:
+
+* İptal Oranı Uyarı Seviyesi: Satıcı Profilinde "Satıcı Sebepli İptal Oranı" ibaresinin görünür şekilde "Yüksek" olarak işaretlenmesi.
+* Satıcıya tanımlanmış olan güvenilirlik, başarılı satıcı veya benzeri rozetlerin belirlenen süre boyunca geçici olarak geri alınması.
+* Satıcının Dolap hesabının belirlenen süre boyunca geçici olarak askıya alınması ve satışa kapatılması.
+
+İptal oranlarının hesaplanma usulü, eşik değerleri ve yaptırım süreleri Platform tarafından belirlenerek güncellenebilecektir ve ilgili satıcı tiplerine göre farklılık gösterebilecektir.”
+
+2.2. Sözleşme’nin “ Ek-1 Platform Kuralları” başlıklı maddesine “5\. Ürün ve Üye İhlalleri“ başlıklı maddesinin “Replika Ürün Listelenmesi ve Gönderimi” başlıklı alt maddesi aşağıdaki şekilde güncellenecektir.
+
+| Replika Ürün Listelenmesi ve Gönderimi | Sıfır ve ikinci el sahte ürün yükleme (replika satışı için uygulamayı kullanma) | \-Satıcının gerçekleşen toplam sipariş sayısı ile sahte/replika ürün gerekçesiyle kabul edilen iade sayısı esas alınarak, son 12 (on iki) aylık geriye dönük performans verileri üzerinden Sahte Ürün İade Oranı aylık dönemler halinde hesaplanır. Hesaplama sonucunda tespit edilen oranlara göre satıcıya aşağıdaki kademeli yaptırımlar uygulanır:Düşük Seviye İhlal (%0 < Oran < %5):Son 12 aylık sahte ürün iade oranının %0’dan büyük, %5’ten küçük olduğu tespit edilen her dönemde (Eylül, Ekim, Kasım ve takip eden müteakip aylar), satıcıya ihlalin giderilmesine yönelik tekrarlı yazılı uyarı iletilir.Orta Seviye İhlal (%5 ≤ Oran < %10) ve Geçici Askıya Alma:Sahte ürün iade oranı ilk kez %5 ile %10 aralığına giren satıcıya ilk 2 (iki) ay boyunca tekrarlı yazılı uyarı gönderilir. Söz konusu 2 (iki) aylık sürenin sonunda yapılan değerlendirmede iade oranının halen bu aralıkta seyretmesi halinde satıcının hesabı geçici olarak askıya alınır.Yüksek Seviye İhlal (%10 ve Üzeri) ve Doğrudan Fesih:Dönemden, 2 (iki) aylık uyarı sürecinden veya daha önce uygulanan yaptırımlardan bağımsız olarak; sahte ürün iade oranının %10 ve üzerinde gerçekleştiği veya %5 ile %10 aralığındaki süreçte %10 eşiğini aştığı anda, satıcının üyeliği ve mağazası derhal tazminatsız olarak feshedilir ve kullanıcı hesabı kalıcı olarak kapatılır. |
+| -------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+2.3. Sözleşme’nin “ Ek-1 Platform Kuralları” başlıklı 19\. Maddesinin “12\. Ürün Arşivleme” alt maddesi aşağıdaki şekilde değiştirilmiştir.
+
+“14\. ÜRÜN ARŞİVLEME
+
+Ürün yaşı yüksek ve uzun süredir satıcı etkileşimi olmayan (güncellenmemiş, indirim yapılmamış, teklif verilmemiş, öne çıkarılmamış) ürünler, sistem tarafından arşiv statüsüne alınır. Satıcının üst üste gelen yorum ve tekliflere cevap vermediği hallerde de, ürün DSM tarafından arşiv statüsüne alınabilecektir. Satıcılar istedikleri zaman bu ürünleri arşiv statüsünden çıkarıp tekrar listeleyebilirler.”
+
+2.4. Sözleşme’nin “ Ek-1 Platform Kuralları” başlıklı 19\. Maddesinin “13\. Satıcı Arşivleme” alt maddesi aşağıdaki şekilde değiştirilmiştir.
+
+“13\. TATİL MODU
+
+Uzun süredir uygulamaya giriş yapmayan satıcılar tatil moduna alınır. Tatil modunda olan satıcıların ürünleri platformda listelenmez. Satıcılar uygulamaya giriş yaptıklarında, istedikleri zaman tatil modundan çıkabilirler.”
+
+2.5. Sözleşme’nin “Ek-2 Kargo Fiyatları Tablosu” başlıklı maddesi aşağıdaki şekilde değiştirilmiştir.
+
+Ek-2 Kargo Fiyatları Tablosu:
+
+Aşağıdaki tabloda yer alan fiyatlar Taşıyıcı Listesi’nde yer alan tüm Taşıyıcılar için geçerli baz kargo fiyatlarıdır. “Satıcı Öder” tercihinin yapılması halinde Satıcı, “Alıcı Öder” tercihinin yapılması halinde ise Alıcı tarafından ödenecek tutardır. 250-400 TL aralığında kargo ücretleri alıcı ve satıcı tarafından paylaşımlı olarak ödenecektir.
+
+< 250 TL altı kargolarda
+
+| Paket Boyutu            | Desi Aralığı | Baz Kargo Fiyat |
+| ----------------------- | ------------ | --------------- |
+| Küçük Paket             | 0-1,99       | 39,99TL         |
+| Orta Paket              | 2-5,99       | 135,99TL        |
+| Büyük Paket             | 6-99,99      | 199,99TL        |
+| Fiyatlara KDV dahildir. |              |                 |
+
+250-400 TL aralığındaki kargolar alıcı ve satıcı arasında paylaşımlı ödenir.
+
+| Paket Boyutu            | Desi Aralığı | Alıcı   | Satıcı   |
+| ----------------------- | ------------ | ------- | -------- |
+| Küçük Paket             | 0-1,99       | 29,99TL | 29,99TL  |
+| Orta Paket              | 2-5,99       | 29,99TL | 105,99TL |
+| Büyük Paket             | 6-99,99      | 29,99TL | 169,99TL |
+| Fiyatlara KDV dahildir. |              |         |          |
+
+\> 400 TL üstü kargolarda
+
+| Paket Boyutu            | Desi Aralığı | Baz Kargo Fiyat |
+| ----------------------- | ------------ | --------------- |
+| Küçük Paket             | 0-1,99       | 50,99TL         |
+| Orta Paket              | 2-5,99       | 135,99TL        |
+| Büyük Paket             | 6-99,99      | 199,99TL        |
+| Fiyatlara KDV dahildir. |              |                 |
+
+Satıcı’nın “Satıcı Öder” tercihinin yapıp yapmadığına bakılmaksızın, Satıcı, Küçük Paket ve Orta Paket için Taşıyıcı Listesi’nden seçeceği Taşıyıcı’ya göre belirlenecek aşağıdaki ek kargo fiyatlarını ödemekle yükümlüdür:
+
+| Desi                    | Paket Boyutu | DHL eCommerce | SURAT   | ARAS    | PTT    | TEX - Evden | TEX- Esnaf Şube | Yurtiçi |
+| ----------------------- | ------------ | ------------- | ------- | ------- | ------ | ----------- | --------------- | ------- |
+| 0-1,99                  | Küçük        | 50,00TL       | 13,00TL | 13,00TL | 0,00TL | 25,00TL     | 0,00TL          | 67,00TL |
+| 2-5,99                  | Orta         | 61,00TL       | 14,00TL | 14,00TL | 0,00TL | 25,00TL     | 0,00TL          | 68,00TL |
+| Fiyatlara KDV dahildir. |              |               |         |         |        |             |                 |         |
+
+Satıcı’nın “Satıcı Öder” tercihinin yapıp yapmadığına bakılmaksızın, Satıcı, Büyük Paket için Taşıyıcı Listesi’nden seçeceği Taşıyıcı’ya göre belirlenecek aşağıdaki desi bazlı kargo fiyatlarından yukarıda yer alan baz kargo fiyatı düşülürek hesaplanacak ek kargo fiyatlarını ödemekle yükümlüdür:
+
+| Desi   | DHL eCommerce | SURAT    | ARAS     | PTT      | TEX - Evden | TEX- Esnaf Şube | Yurtiçi  |
+| ------ | ------------- | -------- | -------- | -------- | ----------- | --------------- | -------- |
+| 6-7    | 186,11        | 132,64   | 115,30   | 105,00   | 125,76      | 101,40          | 181,12   |
+| 7-8    | 196,67        | 141,70   | 122,28   | 110,35   | 132,47      | 108,11          | 204,84   |
+| 8-9    | 207,23        | 150,61   | 136,11   | 123,97   | 145,78      | 121,42          | 212,70   |
+| 9-10   | 220,43        | 159,68   | 149,99   | 137,63   | 159,14      | 134,78          | 225,90   |
+| 10-11  | 229,67        | 168,60   | 167,83   | 158,11   | 176,58      | 152,22          | 235,87   |
+| 11-12  | 240,23        | 174,18   | 173,41   | 166,50   | 182,44      | 158,08          | 251,16   |
+| 12-13  | 253,43        | 181,58   | 181,59   | 175,49   | 189,55      | 165,19          | 266,95   |
+| 13-14  | 266,63        | 188,83   | 190,36   | 184,51   | 198,00      | 173,64          | 275,36   |
+| 14-15  | 279,83        | 196,08   | 199,09   | 193,50   | 206,41      | 182,05          | 296,94   |
+| 15-16  | 281,15        | 203,34   | 207,80   | 202,48   | 214,80      | 190,44          | 312,78   |
+| 16-17  | 319,43        | 214,67   | 216,53   | 211,46   | 223,20      | 198,84          | 321,73   |
+| 17-18  | 336,59        | 226,00   | 225,26   | 220,45   | 232,31      | 207,95          | 339,60   |
+| 18-19  | 359,03        | 237,48   | 235,78   | 229,44   | 243,36      | 219,00          | 356,45   |
+| 19-20  | 378,83        | 248,81   | 247,02   | 238,46   | 253,93      | 229,57          | 363,85   |
+| 20-21  | 399,95        | 258,02   | 258,22   | 247,45   | 263,14      | 238,78          | 371,70   |
+| 21-22  | 432,95        | 269,71   | 269,77   | 256,44   | 274,39      | 250,03          | 392,77   |
+| 22-23  | 454,07        | 280,06   | 279,83   | 265,44   | 284,12      | 259,76          | 404,90   |
+| 23-24  | 489,71        | 290,40   | 288,98   | 274,43   | 292,94      | 268,58          | 420,18   |
+| 24-25  | 522,71        | 300,72   | 298,10   | 283,40   | 301,72      | 277,36          | 428,59   |
+| 25-26  | 553,07        | 311,06   | 307,25   | 292,42   | 310,52      | 286,16          | 457,50   |
+| 26-27  | 588,71        | 338,78   | 316,40   | 301,40   | 319,33      | 294,97          | 500,17   |
+| 27-28  | 621,71        | 349,43   | 325,53   | 310,40   | 328,13      | 303,77          | 523,84   |
+| 28-29  | 654,71        | 359,92   | 334,66   | 319,39   | 336,91      | 312,55          | 547,57   |
+| 29-30  | 687,71        | 370,40   | 343,80   | 328,38   | 345,71      | 321,35          | 566,53   |
+| 30-31  | 720,71        | 380,89   | 343,80   | 336,64   | 348,43      | 324,07          | 572,33   |
+| 31-32  | 765,58        | 455,66   | 354,95   | 712,28   | 453,40      | 429,04          | 588,77   |
+| 32-33  | 810,44        | 469,00   | 366,10   | 729,71   | 466,22      | 441,86          | 605,20   |
+| 33-34  | 855,31        | 482,34   | 377,25   | 747,11   | 479,08      | 454,72          | 621,62   |
+| 34-35  | 900,18        | 495,52   | 388,41   | 764,53   | 491,76      | 467,40          | 638,06   |
+| 35-36  | 945,05        | 508,86   | 399,56   | 781,94   | 504,60      | 480,24          | 654,49   |
+| 36-37  | 989,92        | 522,05   | 410,71   | 799,37   | 517,30      | 492,94          | 670,93   |
+| 37-38  | 1.034,78      | 535,22   | 421,86   | 816,78   | 529,98      | 505,62          | 687,36   |
+| 38-39  | 1.079,65      | 548,57   | 433,01   | 834,19   | 542,82      | 518,46          | 703,80   |
+| 39-40  | 1.124,52      | 561,76   | 444,17   | 851,60   | 555,52      | 531,16          | 720,23   |
+| 40-41  | 1.169,39      | 575,09   | 455,32   | 869,03   | 568,36      | 544,00          | 736,67   |
+| 41-42  | 1.214,26      | 588,28   | 466,47   | 886,44   | 581,05      | 556,69          | 753,10   |
+| 42-43  | 1.259,12      | 601,61   | 477,62   | 903,86   | 593,88      | 569,52          | 769,52   |
+| 43-44  | 1.303,99      | 614,80   | 488,77   | 921,26   | 606,58      | 582,22          | 785,96   |
+| 44-45  | 1.348,86      | 628,13   | 499,93   | 938,69   | 619,42      | 595,06          | 802,39   |
+| 45-46  | 1.393,73      | 641,32   | 511,08   | 956,10   | 632,11      | 607,75          | 818,83   |
+| 46-47  | 1.438,60      | 654,66   | 522,23   | 973,52   | 644,95      | 620,59          | 835,26   |
+| 47-48  | 1.483,46      | 667,84   | 533,38   | 990,92   | 657,64      | 633,28          | 851,70   |
+| 48-49  | 1.528,33      | 681,17   | 544,53   | 1.008,35 | 670,48      | 646,12          | 868,13   |
+| 49-50  | 1.573,20      | 694,37   | 555,69   | 1.025,76 | 683,17      | 658,81          | 884,56   |
+| 50-51  | 1.618,07      | 707,70   | 566,84   | 1.043,18 | 696,01      | 671,65          | 901,00   |
+| 51-52  | 1.662,94      | 720,88   | 577,99   | 1.060,60 | 708,70      | 684,34          | 917,42   |
+| 52-53  | 1.707,80      | 734,22   | 589,14   | 1.078,01 | 721,54      | 697,18          | 933,86   |
+| 53-54  | 1.752,67      | 747,41   | 600,30   | 1.095,42 | 734,23      | 709,87          | 950,29   |
+| 54-55  | 1.797,54      | 760,74   | 611,45   | 1.112,84 | 747,07      | 722,71          | 966,73   |
+| 55-56  | 1.842,41      | 773,93   | 622,60   | 1.130,26 | 759,77      | 735,41          | 983,16   |
+| 56-57  | 1.887,28      | 787,26   | 633,75   | 1.147,68 | 772,60      | 748,24          | 999,60   |
+| 57-58  | 1.932,14      | 800,45   | 644,90   | 1.165,08 | 785,29      | 760,93          | 1.016,03 |
+| 58-59  | 1.977,01      | 813,78   | 656,06   | 1.182,50 | 798,12      | 773,76          | 1.032,46 |
+| 59-60  | 2.021,88      | 826,97   | 667,21   | 1.199,92 | 810,82      | 786,46          | 1.048,90 |
+| 60-61  | 2.066,75      | 840,31   | 678,36   | 1.217,34 | 823,67      | 799,31          | 1.065,32 |
+| 61-62  | 2.111,62      | 853,49   | 689,51   | 1.234,74 | 836,35      | 811,99          | 1.081,76 |
+| 62-63  | 2.156,48      | 866,83   | 700,66   | 1.252,16 | 849,19      | 824,83          | 1.098,19 |
+| 63-64  | 2.201,35      | 880,02   | 711,82   | 1.269,58 | 861,89      | 837,53          | 1.114,63 |
+| 64-65  | 2.246,22      | 893,34   | 722,97   | 1.287,00 | 874,72      | 850,36          | 1.131,06 |
+| 65-66  | 2.291,09      | 906,54   | 734,12   | 1.304,41 | 887,42      | 863,06          | 1.147,50 |
+| 66-67  | 2.335,96      | 919,87   | 745,27   | 1.321,82 | 900,25      | 875,89          | 1.163,93 |
+| 67-68  | 2.380,82      | 933,05   | 756,42   | 1.339,24 | 912,94      | 888,58          | 1.180,36 |
+| 68-69  | 2.425,69      | 946,39   | 767,58   | 1.356,66 | 925,78      | 901,42          | 1.196,80 |
+| 69-70  | 2.470,56      | 959,58   | 778,73   | 1.374,07 | 938,47      | 914,11          | 1.213,22 |
+| 70-71  | 2.515,43      | 972,92   | 789,88   | 1.391,50 | 951,32      | 926,96          | 1.229,66 |
+| 71-72  | 2.560,30      | 986,10   | 801,03   | 1.408,90 | 964,01      | 939,65          | 1.246,09 |
+| 72-73  | 2.605,16      | 999,43   | 812,18   | 1.426,32 | 976,84      | 952,48          | 1.262,53 |
+| 73-74  | 2.650,03      | 1.012,63 | 823,34   | 1.443,73 | 989,54      | 965,18          | 1.278,96 |
+| 74-75  | 2.694,90      | 1.025,95 | 834,49   | 1.461,16 | 1.002,37    | 978,01          | 1.295,40 |
+| 75-76  | 2.739,77      | 1.039,14 | 845,64   | 1.478,56 | 1.015,07    | 990,71          | 1.311,83 |
+| 76-77  | 2.784,64      | 1.052,48 | 856,79   | 1.495,98 | 1.027,91    | 1.003,55        | 1.328,26 |
+| 77-78  | 2.829,50      | 1.065,66 | 867,94   | 1.513,39 | 1.040,59    | 1.016,23        | 1.344,70 |
+| 78-79  | 2.874,37      | 1.079,00 | 879,10   | 1.530,82 | 1.053,43    | 1.029,07        | 1.361,12 |
+| 79-80  | 2.919,24      | 1.092,19 | 890,25   | 1.548,23 | 1.066,13    | 1.041,77        | 1.377,56 |
+| 80-81  | 2.964,11      | 1.105,52 | 901,40   | 1.565,64 | 1.078,97    | 1.054,61        | 1.393,99 |
+| 81-82  | 3.008,98      | 1.118,70 | 912,55   | 1.583,05 | 1.091,65    | 1.067,29        | 1.410,43 |
+| 82-83  | 3.053,84      | 1.131,90 | 923,70   | 1.600,48 | 1.104,36    | 1.080,00        | 1.426,86 |
+| 83-84  | 3.098,71      | 1.145,23 | 934,86   | 1.617,89 | 1.117,19    | 1.092,83        | 1.443,30 |
+| 84-85  | 3.143,58      | 1.158,56 | 946,01   | 1.635,31 | 1.130,03    | 1.105,67        | 1.459,73 |
+| 85-86  | 3.188,45      | 1.171,75 | 957,16   | 1.652,71 | 1.142,72    | 1.118,36        | 1.476,16 |
+| 86-87  | 3.233,32      | 1.185,10 | 968,31   | 1.670,14 | 1.155,56    | 1.131,20        | 1.492,60 |
+| 87-88  | 3.278,18      | 1.198,27 | 979,46   | 1.687,55 | 1.168,25    | 1.143,89        | 1.509,02 |
+| 88-89  | 3.323,05      | 1.211,60 | 990,62   | 1.704,97 | 1.181,08    | 1.156,72        | 1.525,46 |
+| 89-90  | 3.367,92      | 1.224,79 | 1.001,77 | 1.722,37 | 1.193,77    | 1.169,41        | 1.541,89 |
+| 90-91  | 3.412,79      | 1.238,14 | 1.012,92 | 1.739,80 | 1.206,62    | 1.182,26        | 1.558,33 |
+| 91-92  | 3.457,66      | 1.251,31 | 1.024,07 | 1.757,21 | 1.219,31    | 1.194,95        | 1.574,76 |
+| 92-93  | 3.502,52      | 1.264,50 | 1.035,23 | 1.774,63 | 1.232,00    | 1.207,64        | 1.591,20 |
+| 93-94  | 3.547,39      | 1.277,84 | 1.046,38 | 1.792,04 | 1.244,84    | 1.220,48        | 1.607,63 |
+| 94-95  | 3.592,26      | 1.291,16 | 1.057,53 | 1.809,46 | 1.257,67    | 1.233,31        | 1.624,06 |
+| 95-96  | 3.637,13      | 1.304,36 | 1.068,68 | 1.826,87 | 1.270,38    | 1.246,02        | 1.640,50 |
+| 96-97  | 3.682,00      | 1.317,55 | 1.079,83 | 1.844,29 | 1.283,06    | 1.258,70        | 1.656,92 |
+| 97-98  | 3.726,86      | 1.330,87 | 1.090,99 | 1.861,70 | 1.295,89    | 1.271,53        | 1.673,36 |
+| 98-99  | 3.771,73      | 1.344,07 | 1.102,14 | 1.879,13 | 1.308,60    | 1.284,24        | 1.689,79 |
+| 99-100 | 3.816,60      | 1.357,40 | 1.113,29 | 1.896,53 | 1.321,43    | 1.297,07        | 1.706,23 |
+| 100+   | 3.861,47      | 1.370,75 | 1.124,44 | 1.913,95 | 1.334,28    | 1.309,92        | 1.722,66 |
+
+Fiyatlara KDV dahildir.
+
+SON HÜKÜMLER
+
+3.1\. Taraflar Protokol’de aksi açıkça düzenlenmeyen hususlar bakımından Taraflar’ın Sözleşme tahtındaki yükümlülüklerinde herhangi bir değişiklik olmadığını, Sözleşme hükümlerinin yürürlükte olduğunu ve Taraflar arasında geçerli ve bağlayıcı olduğunu kabul, beyan ve taahhüt eder. 
+
+3.2. İşbu Protokol’ün 2.5\. maddesi derhal, kalan tüm maddeleri 01.09.2026 tarihinde kendiliğinden yürürlüğe girecektir.
 
 ![Public](images/image1.png)
 
